@@ -1,0 +1,374 @@
+15:22:06 [INFO] Using standard Java JCE cipher.
+15:22:06 [INFO] Using standard Java compressor.
+15:22:06 [WARNING] Включаю BungeCord BotFilter 1.8.x-1.18.x от vk.com/Leymooo_s (http://rubukkit.org/threads/137038)
+15:22:06 [INFO] [BotFilter] Проверяю наличее обновлений
+15:22:09 [INFO] [BotFilter] Обновлений не найдено!
+15:22:09 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:22:10 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:22:11 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:22:12 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:22:13 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:22:14 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:22:15 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:22:16 [INFO] [BotFilter] Генерирую капчу [6/900]
+15:22:17 [INFO] [BotFilter] Генерирую капчу [16/900]
+15:22:18 [INFO] [BotFilter] Генерирую капчу [29/900]
+15:22:19 [INFO] [BotFilter] Генерирую капчу [43/900]
+15:22:20 [INFO] [BotFilter] Генерирую капчу [54/900]
+15:22:21 [INFO] [BotFilter] Генерирую капчу [69/900]
+15:22:22 [INFO] [BotFilter] Генерирую капчу [77/900]
+15:22:23 [INFO] [BotFilter] Генерирую капчу [89/900]
+15:22:24 [INFO] [BotFilter] Генерирую капчу [100/900]
+15:22:25 [INFO] [BotFilter] Генерирую капчу [119/900]
+15:22:26 [INFO] [BotFilter] Генерирую капчу [142/900]
+15:22:27 [INFO] [BotFilter] Генерирую капчу [166/900]
+15:22:28 [INFO] [BotFilter] Генерирую капчу [181/900]
+15:22:29 [INFO] [BotFilter] Генерирую капчу [197/900]
+15:22:30 [INFO] [BotFilter] Генерирую капчу [211/900]
+15:22:31 [INFO] [BotFilter] Генерирую капчу [228/900]
+15:22:32 [INFO] [BotFilter] Генерирую капчу [245/900]
+15:22:33 [INFO] [BotFilter] Генерирую капчу [262/900]
+15:22:34 [INFO] [BotFilter] Генерирую капчу [278/900]
+15:22:35 [INFO] [BotFilter] Генерирую капчу [298/900]
+15:22:36 [INFO] [BotFilter] Генерирую капчу [317/900]
+15:22:37 [INFO] [BotFilter] Генерирую капчу [336/900]
+15:22:38 [INFO] [BotFilter] Генерирую капчу [362/900]
+15:22:39 [INFO] [BotFilter] Генерирую капчу [378/900]
+15:22:40 [INFO] [BotFilter] Генерирую капчу [400/900]
+15:22:41 [INFO] [BotFilter] Генерирую капчу [418/900]
+15:22:42 [INFO] [BotFilter] Генерирую капчу [441/900]
+15:22:43 [INFO] [BotFilter] Генерирую капчу [468/900]
+15:22:44 [INFO] [BotFilter] Генерирую капчу [484/900]
+15:22:45 [INFO] [BotFilter] Генерирую капчу [505/900]
+15:22:46 [INFO] [BotFilter] Генерирую капчу [524/900]
+15:22:47 [INFO] [BotFilter] Генерирую капчу [542/900]
+15:22:48 [INFO] [BotFilter] Генерирую капчу [566/900]
+15:22:49 [INFO] [BotFilter] Генерирую капчу [584/900]
+15:22:50 [INFO] [BotFilter] Генерирую капчу [605/900]
+15:22:51 [INFO] [BotFilter] Генерирую капчу [623/900]
+15:22:52 [INFO] [BotFilter] Генерирую капчу [644/900]
+15:22:53 [INFO] [BotFilter] Генерирую капчу [661/900]
+15:22:54 [INFO] [BotFilter] Генерирую капчу [670/900]
+15:22:55 [INFO] [BotFilter] Генерирую капчу [682/900]
+15:22:56 [INFO] [BotFilter] Генерирую капчу [695/900]
+15:22:57 [INFO] [BotFilter] Генерирую капчу [718/900]
+15:22:58 [INFO] [BotFilter] Генерирую капчу [735/900]
+15:22:59 [INFO] [BotFilter] Генерирую капчу [745/900]
+15:23:00 [INFO] [BotFilter] Генерирую капчу [755/900]
+15:23:01 [INFO] [BotFilter] Генерирую капчу [769/900]
+15:23:02 [INFO] [BotFilter] Генерирую капчу [785/900]
+15:23:03 [INFO] [BotFilter] Генерирую капчу [797/900]
+15:23:04 [INFO] [BotFilter] Генерирую капчу [815/900]
+15:23:05 [INFO] [BotFilter] Генерирую капчу [830/900]
+15:23:06 [INFO] [BotFilter] Генерирую капчу [850/900]
+15:23:07 [INFO] [BotFilter] Генерирую капчу [872/900]
+15:23:08 [INFO] [BotFilter] Генерирую капчу [895/900]
+15:23:09 [INFO] [BotFilter] Капча сгенерированна за 60 383 мс
+15:23:10 [INFO] [BotFilter] Подключаюсь к датабазе...
+15:23:12 [INFO] [BotFilter] Подключено (1 395 мс)
+15:23:12 [INFO] [BotFilter] Очищено 0 аккаунтов
+15:23:12 [INFO] [BotFilter] Белый список игроков успешно загружен (0)
+15:23:12 [INFO] [BotFilter] Скачиваю GeoLite2 датабазу
+15:23:34 [INFO] [BotFilter] GeoLite2 загружена (22 252мс)
+15:23:34 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:23:35 [WARNING] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+15:23:35 [INFO] Couldn't detect bungee version. Custom build?
+
+15:23:36 [INFO] Use range [1..3] for server lobby-
+15:23:36 [WARNING] Forced host server pvp is not defined
+15:23:37 [INFO] Listening on /0.0.0.0:25577
+15:24:55 [INFO] Closing listener [id: 0x67fa3e98, L:/[0:0:0:0:0:0:0:0]:25577]
+15:24:55 [INFO] Closing pending connections
+15:24:55 [INFO] Disconnecting 0 connections
+15:24:55 [INFO] Disabling plugins
+15:24:55 [INFO] Closing IO threads
+15:25:10 [INFO] Using standard Java JCE cipher.
+15:25:10 [INFO] Using standard Java compressor.
+15:25:10 [WARNING] Включаю BungeCord BotFilter 1.8.x-1.18.x от vk.com/Leymooo_s (http://rubukkit.org/threads/137038)
+15:25:11 [SEVERE] Exception in thread "main" 
+15:25:11 [SEVERE] java.lang.reflect.InaccessibleObjectException: Unable to make private native java.lang.reflect.Field[] java.lang.Class.getDeclaredFields0(boolean) accessible: module java.base does not "opens java.lang" to unnamed module @6671dc81
+
+15:25:11 [SEVERE] 	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+
+15:25:11 [SEVERE] 	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+
+15:25:11 [SEVERE] 	at java.base/java.lang.reflect.Method.checkCanSetAccessible(Method.java:200)
+
+15:25:11 [SEVERE] 	at java.base/java.lang.reflect.Method.setAccessible(Method.java:194)
+
+15:25:11 [SEVERE] 	at ru.leymooo.botfilter.config.Config.setAccessible(Config.java:371)
+
+15:25:11 [SEVERE] 	at ru.leymooo.botfilter.config.Config.getField(Config.java:258)
+
+15:25:11 [SEVERE] 	at ru.leymooo.botfilter.config.Config.set(Config.java:54)
+
+15:25:11 [SEVERE] 	at ru.leymooo.botfilter.config.Config.set(Config.java:114)
+
+15:25:11 [SEVERE] 	at ru.leymooo.botfilter.config.Config.load(Config.java:99)
+
+15:25:11 [SEVERE] 	at ru.leymooo.botfilter.config.Settings.reload(Settings.java:60)
+
+15:25:11 [SEVERE] 	at ru.leymooo.botfilter.BotFilter.<init>(BotFilter.java:74)
+
+15:25:11 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:280)
+
+15:25:11 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:49)
+
+15:25:11 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+15:27:02 [INFO] Using standard Java JCE cipher.
+15:27:02 [INFO] Using standard Java compressor.
+15:27:02 [WARNING] Включаю BungeCord BotFilter 1.8.x-1.18.x от vk.com/Leymooo_s (http://rubukkit.org/threads/137038)
+15:27:03 [SEVERE] Exception in thread "main" 
+15:27:03 [SEVERE] java.lang.reflect.InaccessibleObjectException: Unable to make private native java.lang.reflect.Field[] java.lang.Class.getDeclaredFields0(boolean) accessible: module java.base does not "opens java.lang" to unnamed module @6671dc81
+
+15:27:03 [SEVERE] 	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+
+15:27:03 [SEVERE] 	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+
+15:27:03 [SEVERE] 	at java.base/java.lang.reflect.Method.checkCanSetAccessible(Method.java:200)
+
+15:27:03 [SEVERE] 	at java.base/java.lang.reflect.Method.setAccessible(Method.java:194)
+
+15:27:03 [SEVERE] 	at ru.leymooo.botfilter.config.Config.setAccessible(Config.java:371)
+
+15:27:03 [SEVERE] 	at ru.leymooo.botfilter.config.Config.getField(Config.java:258)
+
+15:27:03 [SEVERE] 	at ru.leymooo.botfilter.config.Config.set(Config.java:54)
+
+15:27:03 [SEVERE] 	at ru.leymooo.botfilter.config.Config.set(Config.java:114)
+
+15:27:03 [SEVERE] 	at ru.leymooo.botfilter.config.Config.load(Config.java:99)
+
+15:27:03 [SEVERE] 	at ru.leymooo.botfilter.config.Settings.reload(Settings.java:60)
+
+15:27:03 [SEVERE] 	at ru.leymooo.botfilter.BotFilter.<init>(BotFilter.java:74)
+
+15:27:03 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:280)
+
+15:27:03 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:49)
+
+15:27:03 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+15:30:22 [INFO] Using standard Java JCE cipher.
+15:30:22 [INFO] Using standard Java compressor.
+15:30:22 [WARNING] Включаю BungeCord BotFilter 1.8.x-1.18.x от vk.com/Leymooo_s (http://rubukkit.org/threads/137038)
+15:30:23 [WARNING] Error:
+java.io.IOException: No space left on device
+	at java.base/sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+	at java.base/sun.nio.ch.FileDispatcherImpl.write(FileDispatcherImpl.java:62)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:102)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:72)
+	at java.base/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:288)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFullyImpl(ChannelOutputStream.java:60)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFully(ChannelOutputStream.java:82)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:122)
+	at java.base/sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:234)
+	at java.base/sun.nio.cs.StreamEncoder.implClose(StreamEncoder.java:340)
+	at java.base/sun.nio.cs.StreamEncoder.close(StreamEncoder.java:169)
+	at java.base/java.io.OutputStreamWriter.close(OutputStreamWriter.java:254)
+	at java.base/java.io.BufferedWriter.close(BufferedWriter.java:269)
+	at java.base/java.nio.file.Files.write(Files.java:3588)
+	at ru.leymooo.botfilter.config.Config.save(Config.java:144)
+	at ru.leymooo.botfilter.config.Settings.reload(Settings.java:61)
+	at ru.leymooo.botfilter.BotFilter.<init>(BotFilter.java:74)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:280)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:49)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+15:30:23 [INFO] [BotFilter] Проверяю наличее обновлений
+15:30:24 [INFO] [BotFilter] Обновлений не найдено!
+15:30:24 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:30:25 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:30:26 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:30:27 [INFO] [BotFilter] Генерирую капчу [15/900]
+15:30:28 [INFO] [BotFilter] Генерирую капчу [58/900]
+15:30:29 [INFO] [BotFilter] Генерирую капчу [100/900]
+15:30:30 [INFO] [BotFilter] Генерирую капчу [142/900]
+15:30:31 [INFO] [BotFilter] Генерирую капчу [191/900]
+15:30:32 [INFO] [BotFilter] Генерирую капчу [241/900]
+15:30:33 [INFO] [BotFilter] Генерирую капчу [286/900]
+15:30:34 [INFO] [BotFilter] Генерирую капчу [327/900]
+15:30:35 [INFO] [BotFilter] Генерирую капчу [375/900]
+15:30:36 [INFO] [BotFilter] Генерирую капчу [434/900]
+15:30:37 [INFO] [BotFilter] Генерирую капчу [492/900]
+15:30:38 [INFO] [BotFilter] Генерирую капчу [548/900]
+15:30:39 [INFO] [BotFilter] Генерирую капчу [600/900]
+15:30:40 [INFO] [BotFilter] Генерирую капчу [653/900]
+15:30:41 [INFO] [BotFilter] Генерирую капчу [702/900]
+15:30:42 [INFO] [BotFilter] Генерирую капчу [749/900]
+15:30:43 [INFO] [BotFilter] Генерирую капчу [813/900]
+15:30:44 [INFO] [BotFilter] Генерирую капчу [875/900]
+15:30:45 [INFO] [BotFilter] Капча сгенерированна за 21 182 мс
+15:30:45 [INFO] [BotFilter] Подключаюсь к датабазе...
+15:30:52 [SEVERE] java.io.IOException: No space left on device
+
+15:30:52 [SEVERE] 	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+
+15:30:52 [SEVERE] 	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:349)
+
+15:30:52 [SEVERE] 	at org.sqlite.SQLiteJDBCLoader.extractAndLoadLibraryFile(SQLiteJDBCLoader.java:217)
+
+15:30:52 [SEVERE] 	at org.sqlite.SQLiteJDBCLoader.loadSQLiteNativeLibrary(SQLiteJDBCLoader.java:366)
+
+15:30:52 [SEVERE] 	at org.sqlite.SQLiteJDBCLoader.initialize(SQLiteJDBCLoader.java:68)
+
+15:30:52 [SEVERE] 	at org.sqlite.core.NativeDB.load(NativeDB.java:63)
+
+15:30:52 [SEVERE] 	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:240)
+
+15:30:52 [SEVERE] 	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:61)
+
+15:30:52 [SEVERE] 	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28)
+
+15:30:52 [SEVERE] 	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:21)
+
+15:30:52 [SEVERE] 	at org.sqlite.JDBC.createConnection(JDBC.java:115)
+
+15:30:52 [SEVERE] 	at org.sqlite.JDBC.connect(JDBC.java:90)
+
+15:30:52 [SEVERE] 	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+
+15:30:52 [SEVERE] 	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+
+15:30:52 [SEVERE] 	at ru.leymooo.botfilter.utils.Sql.connectToDatabase(Sql.java:83)
+
+15:30:52 [SEVERE] 	at ru.leymooo.botfilter.utils.Sql.setupConnect(Sql.java:64)
+
+15:30:52 [SEVERE] 	at ru.leymooo.botfilter.utils.Sql.<init>(Sql.java:38)
+
+15:30:52 [SEVERE] 	at ru.leymooo.botfilter.BotFilter.<init>(BotFilter.java:84)
+
+15:30:52 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:280)
+
+15:30:52 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:49)
+
+15:30:52 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+15:30:52 [WARNING] Can not connect to database or execute sql: 
+java.sql.SQLException: Error opening connection
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:244)
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:61)
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28)
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:21)
+	at org.sqlite.JDBC.createConnection(JDBC.java:115)
+	at org.sqlite.JDBC.connect(JDBC.java:90)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at ru.leymooo.botfilter.utils.Sql.connectToDatabase(Sql.java:83)
+	at ru.leymooo.botfilter.utils.Sql.setupConnect(Sql.java:64)
+	at ru.leymooo.botfilter.utils.Sql.<init>(Sql.java:38)
+	at ru.leymooo.botfilter.BotFilter.<init>(BotFilter.java:84)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:280)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:49)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.Exception: No native library found for os.name=Mac, os.arch=x86_64, paths=[/org/sqlite/native/Mac/x86_64:/Users/antongorestov/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+	at org.sqlite.SQLiteJDBCLoader.loadSQLiteNativeLibrary(SQLiteJDBCLoader.java:389)
+	at org.sqlite.SQLiteJDBCLoader.initialize(SQLiteJDBCLoader.java:68)
+	at org.sqlite.core.NativeDB.load(NativeDB.java:63)
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:240)
+	... 14 more
+15:30:52 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:30:52 [WARNING] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+15:30:53 [INFO] Couldn't detect bungee version. Custom build?
+
+15:30:53 [INFO] Listening on /0.0.0.0:25565
+15:31:01 [INFO] [/127.0.0.1:58984] <-> InitialHandler has pinged
+15:31:01 [INFO] [/192.168.1.125:58994] <-> InitialHandler has pinged
+15:31:02 [INFO] [/192.168.1.125:58997] <-> InitialHandler has connected
+15:31:02 [INFO] [BotFilter] Maximum packet size: 2097152
+15:31:02 [INFO] [BotFilter] Maximum packet size while checking: 33177
+15:31:02 [INFO] [Do3a_HiKoTiHa|192.168.1.125] <-> BotFilter has connected
+15:31:12 [INFO] [BotFilter] Игрок (Do3a_HiKoTiHa|192.168.1.125) успешно прошёл проверку
+15:31:12 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has connected
+15:31:12 [INFO] [Do3a_HiKoTiHa] disconnected with: §cВы были кикнуты при подключении к серверу Auth: §fmultiplayer.disconnect.incompatible
+15:31:12 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
+15:31:12 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has disconnected
+15:35:05 [INFO] Closing listener [id: 0xc9914d02, L:/[0:0:0:0:0:0:0:0]:25565]
+15:35:05 [INFO] Closing pending connections
+15:35:05 [INFO] Disconnecting 0 connections
+15:35:06 [INFO] Disabling plugins
+15:35:06 [INFO] Closing IO threads
+15:35:11 [INFO] Using standard Java JCE cipher.
+15:35:11 [INFO] Using standard Java compressor.
+15:35:11 [WARNING] Включаю BungeCord BotFilter 1.8.x-1.18.x от vk.com/Leymooo_s (http://rubukkit.org/threads/137038)
+15:35:11 [INFO] [BotFilter] Проверяю наличее обновлений
+15:35:12 [INFO] [BotFilter] Обновлений не найдено!
+15:35:12 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:35:13 [INFO] [BotFilter] Генерирую капчу [0/900]
+15:35:14 [INFO] [BotFilter] Генерирую капчу [22/900]
+15:35:15 [INFO] [BotFilter] Генерирую капчу [86/900]
+15:35:16 [INFO] [BotFilter] Генерирую капчу [157/900]
+15:35:17 [INFO] [BotFilter] Генерирую капчу [233/900]
+15:35:18 [INFO] [BotFilter] Генерирую капчу [298/900]
+15:35:19 [INFO] [BotFilter] Генерирую капчу [376/900]
+15:35:20 [INFO] [BotFilter] Генерирую капчу [428/900]
+15:35:21 [INFO] [BotFilter] Генерирую капчу [478/900]
+15:35:22 [INFO] [BotFilter] Генерирую капчу [498/900]
+15:35:23 [INFO] [BotFilter] Генерирую капчу [532/900]
+15:35:24 [INFO] [BotFilter] Генерирую капчу [564/900]
+15:35:25 [INFO] [BotFilter] Генерирую капчу [599/900]
+15:35:26 [INFO] [BotFilter] Генерирую капчу [634/900]
+15:35:27 [INFO] [BotFilter] Генерирую капчу [669/900]
+15:35:28 [INFO] [BotFilter] Генерирую капчу [700/900]
+15:35:29 [INFO] [BotFilter] Генерирую капчу [719/900]
+15:35:30 [INFO] [BotFilter] Генерирую капчу [745/900]
+15:35:31 [INFO] [BotFilter] Генерирую капчу [765/900]
+15:35:32 [INFO] [BotFilter] Генерирую капчу [795/900]
+15:35:33 [INFO] [BotFilter] Генерирую капчу [842/900]
+15:35:34 [INFO] [BotFilter] Генерирую капчу [886/900]
+15:35:35 [INFO] [BotFilter] Капча сгенерированна за 23 146 мс
+15:35:36 [INFO] [BotFilter] Подключаюсь к датабазе...
+15:35:36 [INFO] [BotFilter] Подключено (741 мс)
+15:35:36 [INFO] [BotFilter] Очищено 0 аккаунтов
+15:35:36 [INFO] [BotFilter] Белый список игроков успешно загружен (0)
+15:35:37 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:35:37 [WARNING] Epoll is not working, falling back to NIO: ExceptionInInitializerError : null @ io.netty.channel.epoll.Epoll:40
+15:35:37 [INFO] Couldn't detect bungee version. Custom build?
+
+15:35:37 [INFO] Listening on /0.0.0.0:25565
+15:35:50 [INFO] [/127.0.0.1:59110] <-> InitialHandler has pinged
+15:35:51 [INFO] [/192.168.1.125:59121] <-> InitialHandler has pinged
+15:35:52 [INFO] [/192.168.1.125:59124] <-> InitialHandler has connected
+15:35:52 [INFO] [BotFilter] Maximum packet size: 2097152
+15:35:52 [INFO] [BotFilter] Maximum packet size while checking: 33177
+15:35:52 [INFO] [Do3a_HiKoTiHa|192.168.1.125] <-> BotFilter has connected
+15:35:56 [INFO] [BotFilter] Игрок (Do3a_HiKoTiHa|192.168.1.125) успешно прошёл проверку
+15:35:56 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has connected
+15:35:56 [INFO] [Do3a_HiKoTiHa] disconnected with: §cВы были кикнуты при подключении к серверу Auth: §fmultiplayer.disconnect.incompatible
+15:35:56 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
+15:35:56 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has disconnected
+15:37:30 [INFO] [/127.0.0.1:59151] <-> InitialHandler has pinged
+15:37:34 [INFO] [/192.168.1.125:59163] <-> InitialHandler has pinged
+15:41:01 [INFO] [/127.0.0.1:59295] <-> InitialHandler has pinged
+15:41:06 [INFO] [/192.168.1.125:59306] <-> InitialHandler has pinged
+15:41:08 [INFO] [/192.168.1.125:59309] <-> InitialHandler has connected
+15:41:08 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has connected
+15:41:08 [INFO] [Do3a_HiKoTiHa] disconnected with: §cВы были кикнуты при подключении к серверу Auth: §fmultiplayer.disconnect.incompatible
+15:41:08 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
+15:41:08 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has disconnected
+15:51:43 [INFO] [/192.168.1.125:59476] <-> InitialHandler has connected
+15:51:43 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has connected
+15:52:14 [WARNING] [Do3a_HiKoTiHa] -> UpstreamBridge - read timed out
+15:52:14 [INFO] [Do3a_HiKoTiHa] disconnected with: §fReadTimeoutException : null
+15:52:14 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
+15:52:14 [WARNING] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] - read timed out
+15:52:14 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has disconnected
+15:56:47 [INFO] [/127.0.0.1:59581] <-> InitialHandler has pinged
+15:56:49 [INFO] [/127.0.0.1:59585] <-> InitialHandler has connected
+15:56:49 [INFO] [Do3a_HiKoTiHa|127.0.0.1] <-> BotFilter has connected
+15:56:55 [INFO] [BotFilter] Игрок (Do3a_HiKoTiHa|127.0.0.1) успешно прошёл проверку
+15:56:55 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has connected
+15:56:55 [INFO] [Do3a_HiKoTiHa] disconnected with: §cВы были кикнуты при подключении к серверу Auth: §fOutdated server! I'm still on 1.18.2
+15:56:55 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
+15:56:55 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has disconnected
+16:03:58 [INFO] [/127.0.0.1:59610] <-> InitialHandler has pinged
+16:07:35 [INFO] [/127.0.0.1:59642] <-> InitialHandler has pinged
+16:11:20 [INFO] [/127.0.0.1:59678] <-> InitialHandler has connected
+16:11:21 [INFO] [Do3a_HiKoTiHa] disconnected with: §cНе удалось подключить Вас к основному или запасному серверу. Возможно неправильно настроен адрес/порт/брандмауэр? AnnotatedConnectException : Connection refused: localhost/127.0.0.1:25566
+16:11:21 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
+16:18:16 [INFO] [/127.0.0.1:59789] <-> InitialHandler has connected
+16:18:16 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has connected
+16:18:20 [INFO] [Do3a_HiKoTiHa] disconnected with: §cВы были кикнуты при подключении к серверу Auth: §fUnknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+16:18:20 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
+16:18:20 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has disconnected
