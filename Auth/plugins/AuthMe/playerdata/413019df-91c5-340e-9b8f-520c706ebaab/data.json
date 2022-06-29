@@ -1,0 +1,14 @@
+{
+  "location": {
+    "world": "world",
+    "x": -1.477564884759376,
+    "y": 78.0,
+    "z": -12.48778202391832,
+    "yaw": 90.0,
+    "pitch": 0.0
+  },
+  "operator": false,
+  "can-fly": false,
+  "walk-speed": 0.2,
+  "fly-speed": 0.1
+}

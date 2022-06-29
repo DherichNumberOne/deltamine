@@ -12,7 +12,7 @@
 
 settings:
   debug: false
-  bungeecord: false
+  bungeecord: true
   sample-count: 12
   player-shuffle: 0
   user-cache-size: 1000
@@ -21,7 +21,7 @@ settings:
   moved-too-quickly-multiplier: 10.0
   timeout-time: 60
   restart-on-crash: true
-  restart-script: ./start.sh
+  restart-script: java -Xms1G -Xmx15G -jar spigot-1.18.2.jar nogui
   netty-threads: 4
   attribute:
     maxHealth:

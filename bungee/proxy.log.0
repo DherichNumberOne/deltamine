@@ -372,3 +372,27 @@ Caused by: java.lang.Exception: No native library found for os.name=Mac, os.arch
 16:18:20 [INFO] [Do3a_HiKoTiHa] disconnected with: §cВы были кикнуты при подключении к серверу Auth: §fUnknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
 16:18:20 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
 16:18:20 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has disconnected
+16:21:38 [INFO] [/127.0.0.1:59802] <-> InitialHandler has connected
+16:21:38 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has connected
+16:21:48 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
+16:21:50 [INFO] [/192.168.1.125:59805] <-> InitialHandler has pinged
+16:21:50 [WARNING] Event ProxyPingEvent(connection=[/192.168.1.125:59805] <-> InitialHandler, response=ServerPing(version=ServerPing.Protocol(name=BotFilter 1.8.x-1.18.x, protocol=754), players=ServerPing.Players(max=650, online=0, sample=null), description=§f§6§lDelta§a§lMine, modinfo=ServerPing.ModInfo(type=FML, modList=[]))) took 253ms to process!
+16:21:54 [INFO] [/127.0.0.1:59817] <-> InitialHandler has pinged
+16:21:56 [INFO] [/192.168.1.125:59831] <-> InitialHandler has pinged
+16:22:08 [WARNING] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] - read timed out
+16:22:08 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has disconnected
+16:22:37 [INFO] [/127.0.0.1:59844] <-> InitialHandler has pinged
+16:22:39 [INFO] [/192.168.1.125:59857] <-> InitialHandler has pinged
+16:23:29 [INFO] [/127.0.0.1:59868] <-> InitialHandler has pinged
+16:23:31 [INFO] [/127.0.0.1:59872] <-> InitialHandler has connected
+16:23:31 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has connected
+16:24:03 [WARNING] [Do3a_HiKoTiHa] -> UpstreamBridge - read timed out
+16:24:03 [INFO] [Do3a_HiKoTiHa] disconnected with: §fReadTimeoutException : null
+16:24:03 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
+16:24:03 [INFO] [Do3a_HiKoTiHa] <-> DownstreamBridge <-> [Auth] has disconnected
+16:24:11 [INFO] [/127.0.0.1:59876] <-> InitialHandler has connected
+16:24:11 [INFO] [Do3a_HiKoTiHa] <-> ServerConnector [Auth] has connected
+16:25:30 [WARNING] [Do3a_HiKoTiHa] <-> DownstreamBridge <-> [Auth] - SocketException: Connection reset
+16:25:30 [INFO] [Do3a_HiKoTiHa] disconnected with: §fSocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:394
+16:25:30 [INFO] [Do3a_HiKoTiHa] -> UpstreamBridge has disconnected
+16:25:30 [INFO] [Do3a_HiKoTiHa] <-> DownstreamBridge <-> [Auth] has disconnected

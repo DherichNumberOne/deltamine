@@ -1,0 +1,14 @@
+Spawn:
+    x: -1.477564884759376
+    y: 78.0
+    z: -12.48778202391832
+    pitch: 0
+    yaw: 90
+    world: 'world'
+Worlds: []
+Prefix: '&f[&cSpawn&f] '
+TpJoin: false
+Time:
+    enable: false
+    time: 5
+    message: 'секунд'
